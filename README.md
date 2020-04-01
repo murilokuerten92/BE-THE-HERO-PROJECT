@@ -4,3 +4,6 @@
 para que as pessoas possam ajudar uma determinada ocorrência.</p>
 
 <h5>Abaixo vou mostrar alguma imagens de como ficou o Projeto</h5>
+
+![icon](https://user-images.githubusercontent.com/63013634/78181470-cfb6a480-743a-11ea-8c82-e33559d1001b.png)
+
